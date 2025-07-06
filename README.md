@@ -1,9 +1,7 @@
 <h2 align="left">About Me!</h2>
 
 ###
-
 <p align="left">Mais de 10 anos na Área de Desenvolvimento de Software, nas seguintes atividades:<br><br>• Utilização de boas práticas de programação, como os princípios SOLID e Clean Code, para garantir a escrita de códigos limpos, modulares e de fácil manutenção. <br>• Expertise no Desenvolvimento de Sistemas, abrangendo a implementação de aplicações robustas e escaláveis.<br>• Especialista em Java para criação de aplicações back-end, APIs RESTful, e microsserviços, utilizando ferramentas, paradigmas e tecnologias como frameworks Quarkus e SpringBoot e integração de sistemas com Apache Kafka.<br>• Experiência em Cloud AWS.<br>• Aplicação de metodologias ágeis Scrum e versionamento de código com Git e Azure DevOps.<br>• Habilidade na execução de testes com TDD e BDD, e contribuição para o aprimoramento contínuo das funcionalidades desenvolvidas.<br><br>Cursando – Pós-Graduação em Engenharia e Arquitetura de Software.</p>
-
 ###
 
 <h2 align="left">Techs</h2>
